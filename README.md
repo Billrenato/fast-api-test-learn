@@ -1,1 +1,0 @@
-# fast-api-test-learn
